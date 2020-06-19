@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run ST_ML_Random_Forest.py
