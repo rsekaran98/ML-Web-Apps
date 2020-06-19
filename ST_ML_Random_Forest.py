@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn import datasets
 from sklearn.ensemble import RandomForestClassifier
 
-img = Image.open("SeaportAi.jpg")
+img = Image.open("SeaportAI.jpg")
 st.sidebar.image(img,width=70,caption  = 'SeaportAI')
 
 st.write("""
